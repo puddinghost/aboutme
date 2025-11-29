@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "BorelRegular";
+	src: url("../font/Borel-Regular.ttf");
+}
+
+@font-face {
+	font-family: "DigimonDSRegular";
+	src: url("../font/DigimonWorldDsRegularFont-Regular.ttf");
+}
+
+@font-face {
+	font-family: "AngryText";
+	src: url("../font/angrybirds-regular.ttf")
+}

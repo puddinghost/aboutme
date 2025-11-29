@@ -1,0 +1,27 @@
+@media(max-width: 425px) {
+    .introduction .introduction-text h2 {
+        font-size: 16px;
+    }
+
+    .introduction .introduction-text p {
+        font-size: 14px;
+    }
+
+    .introduction .introduction-picture img {
+        max-width: 320px;
+    }
+
+    .category-of-window,
+    .title-of-window{
+        margin: 10px;
+    }
+    .list-separated{
+        margin-left: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+    .list h3{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
