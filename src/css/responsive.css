@@ -24,4 +24,11 @@
         margin-left: 10px;
         margin-right: 10px;
     }
+
+    .title-of-window{
+        text-align: center;
+        margin: auto;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
 }
